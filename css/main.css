@@ -1,7 +1,12 @@
 body {
   background-color: magenta;
+  font-size: 1.125em;
 }
 
 .gallery {
   color: black;
+}
+
+ol {
+  font-size: 2em;
 }
